@@ -3,79 +3,79 @@
 
 This project is deployed under Github Pages.
 
-[Animated Search bar](./animated-search-bar)
+https://jjnanthakumar.github.io/frontend-projects/animated-search-bar
 
-[Auto Text Effect Animation](./auto-text-effect-animation/)
+https://jjnanthakumar.github.io/frontend-projects/auto-text-effect-animation/
 
-background-image-scroll-effect
+https://jjnanthakumar.github.io/frontend-projects/background-image-scroll-effect
 
-background-video-project
+https://jjnanthakumar.github.io/frontend-projects/background-video-project
 
-blurred-background-popup
+https://jjnanthakumar.github.io/frontend-projects/blurred-background-popup
 
-button-ripple-effect
+https://jjnanthakumar.github.io/frontend-projects/button-ripple-effect
 
-clock
+https://jjnanthakumar.github.io/frontend-projects/clock
 
-counter
+https://jjnanthakumar.github.io/frontend-projects/counter
 
-dark-mode-toggle
+https://jjnanthakumar.github.io/frontend-projects/dark-mode-toggle
 
-digital-clock
+https://jjnanthakumar.github.io/frontend-projects/digital-clock
 
-double-landing-page
+https://jjnanthakumar.github.io/frontend-projects/double-landing-page
 
-drum-kits
+https://jjnanthakumar.github.io/frontend-projects/drum-kits
 
-emoji-rating
+https://jjnanthakumar.github.io/frontend-projects/emoji-rating
 
-heart-trail-animation
+https://jjnanthakumar.github.io/frontend-projects/heart-trail-animation
 
-image-slider
+https://jjnanthakumar.github.io/frontend-projects/image-slider
 
-loading-bar
+https://jjnanthakumar.github.io/frontend-projects/loading-bar
 
-mini-calendar
+https://jjnanthakumar.github.io/frontend-projects/mini-calendar
 
-month-calender
+https://jjnanthakumar.github.io/frontend-projects/month-calender
 
-mouse-event
+https://jjnanthakumar.github.io/frontend-projects/mouse-event
 
-multiplication-app
+https://jjnanthakumar.github.io/frontend-projects/multiplication-app
 
-Navbar-project
+https://jjnanthakumar.github.io/frontend-projects/Navbar-project
 
-new-year-countdown
+https://jjnanthakumar.github.io/frontend-projects/new-year-countdown
 
-profile-statistics
+https://jjnanthakumar.github.io/frontend-projects/profile-statistics
 
-Q&A-section
+https://jjnanthakumar.github.io/frontend-projects/Q&A-section
 
-random-color-generator
+https://jjnanthakumar.github.io/frontend-projects/random-color-generator
 
-random-password-generator
+https://jjnanthakumar.github.io/frontend-projects/random-password-generator
 
-random-photos
+https://jjnanthakumar.github.io/frontend-projects/random-photos
 
-real-time-character-counter
+https://jjnanthakumar.github.io/frontend-projects/real-time-character-counter
 
-rotating-image-gallery
+https://jjnanthakumar.github.io/frontend-projects/rotating-image-gallery
 
-Sidebar-project
+https://jjnanthakumar.github.io/frontend-projects/Sidebar-project
 
-social-media-selector-menu
+https://jjnanthakumar.github.io/frontend-projects/social-media-selector-menu
 
-step-progress-bar
+https://jjnanthakumar.github.io/frontend-projects/step-progress-bar
 
-sticky-navbar
+https://jjnanthakumar.github.io/frontend-projects/sticky-navbar
 
-tabs
+https://jjnanthakumar.github.io/frontend-projects/tabs
 
-testimonial-slider
+https://jjnanthakumar.github.io/frontend-projects/testimonial-slider
 
-to-do-list
+https://jjnanthakumar.github.io/frontend-projects/to-do-list
 
-video-trailer-popup
+https://jjnanthakumar.github.io/frontend-projects/video-trailer-popup
 
 
 NEW HTML CSS JavaScript Projects    Interesting HTML CSS JavaScript projects    Learn HTML, CSS, and JavaScript 2021 to create modern websites.    Fun learning HTML, CSS, and JavaScript!    
